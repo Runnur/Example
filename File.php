@@ -2,6 +2,7 @@
 
 echo 'test';
 
+echo '';
 
 
 echo '';

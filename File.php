@@ -6,4 +6,7 @@ echo 'test';
 
 echo '';
 
+
+echo ;
+
 ?>

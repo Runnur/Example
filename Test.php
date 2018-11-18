@@ -12,9 +12,10 @@ echo $str . " new";
 $str2 = "New string";
 echo $str2 . $str; 
 
-$a = 234;
+$a = 234344;
 $b = 2222;
 $tmp = $a;
+$a = $b;
 $b = $tmp;
 
 ?>

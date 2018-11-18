@@ -9,5 +9,8 @@ echo $a;
 $str = "Test string";
 echo $str . " new";
 
+$str2 = "New string";
+echo $str2 . $str; 
+
 
 ?>

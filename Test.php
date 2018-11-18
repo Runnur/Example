@@ -13,7 +13,7 @@ $str2 = "New string";
 echo $str2 . $str; 
 
 $a = 234;
-$b = 2;
+$b = 2222;
 $tmp = $a;
 $b = $tmp;
 

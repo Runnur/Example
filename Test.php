@@ -12,7 +12,7 @@ echo $str . " new";
 $str2 = "New string";
 echo $str2 . $str; 
 
-$a = 10;
+$a = 1000;
 $b = 2;
 $tmp = $a;
 $b = $tmp;

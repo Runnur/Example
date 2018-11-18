@@ -12,5 +12,9 @@ echo $str . " new";
 $str2 = "New string";
 echo $str2 . $str; 
 
+$a = 1;
+$b = 2;
+$tmp = $a;
+$b = $tmp;
 
 ?>

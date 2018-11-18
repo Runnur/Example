@@ -6,5 +6,8 @@
 $a = 1;
 echo $a;
 
+$str = "Test string";
+echo $str . " new";
+
 
 ?>
